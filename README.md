@@ -1,18 +1,17 @@
 # 🛰️ Grefur Sensor – Open Hardware IoT Sensor Platform
 
-Welcome to the **Grefur Sensor** project – an open-source, modular sensor platform designed for flexibility, extensibility, and easy integration into MQTT-based IoT ecosystems. Whether you're building environmental sensors, automation modules, or simple input/output devices – **Grefur's backplate** is the universal starting point.
+This is the main repository for **Grefur Sensor** project – an open-source, modular sensor platform designed for flexibility, extensibility, and easy integration into MQTT-based IoT ecosystems. Whether you're building environmental sensors, automation modules, or simple input/output devices – **Grefur's backplate** is the universal starting point.
 
 ---
 
 ## 🔧 Backplate – The Heart of the System
 
-The **Grefur Backplate** is a standardized, wall-mountable base that provides:
+The **Grefur Backplate** will be standardized, with posibilites to be mounted on walls, cases, HVAC, outdoor +++:
+   
+- 🧩 **Sensor Extension**: Any sensor module schould be design for easy fit on the backplate
+- 🛠️ **Technology**: With ESP32 and ESP8622, the backplate is full of possibilites
+- 🌐 **Mentality**: Easy access for exposing measured values into the IoT enviroment
 
-- ✅ **Universal Mounting**: 60x80mm backplate with 2 screw holes for secure installation.  
-- ⚡ **Cable Entry**: Rubber grommet at bottom center for power/data cables (8mm diameter).  
-- 🧩 **Sensor Agnostic**: Any sensor module can be designed to snap or screw onto the backplate.  
-- 🔧 **Wall Clearance**: Built-in 3mm clearance for back-side components or airflow.  
-- 🎨 **Material**: Durable, textured ABS in matte white.  
 
 > 🏗️ Developed and maintained by **Grefur AS**, the Backplate Specification is open and public. Anyone can design compatible sensors and modules.
 
@@ -20,7 +19,7 @@ The **Grefur Backplate** is a standardized, wall-mountable base that provides:
 
 ## 📦 Sensor Modules – Build Your Own
 
-Anyone can design a **Grefur-compatible sensor** that fits the backplate and communicates via MQTT. Sensor modules are:
+Anyone can design a **Grefur-compatible sensor** that fits the backplate. The sensors will the be:
 
 - 🛠️ **Self-contained**: Include firmware, sensor logic, and configuration.  
 - 🌐 **Network-ready**: Designed to connect via Wi-Fi or Ethernet and speak MQTT.  
