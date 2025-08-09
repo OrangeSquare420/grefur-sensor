@@ -1,4 +1,4 @@
-# 🛰️ Grefur Sensor – Open Hardware IoT Sensor Platform
+# Grefur Sensor – Open Hardware IoT Sensor Platform
 
 This is the main repository for **Grefur Sensor** project – an open-source, modular sensor platform designed for flexibility, extensibility, and easy integration into MQTT-based IoT ecosystems. Whether you're building environmental sensors, automation modules, or simple input/output devices – **Grefur's backplate** is the universal starting point.
 
