@@ -31,9 +31,12 @@ Example modules include:
 - Leak detectors  
 - Soil moisture readers  
 - Light sensors  
-- Digital buttons and switches  
-
+- Digital buttons and switches
 ---
+
+<img width="1793" height="942" alt="image" src="https://github.com/user-attachments/assets/32b37591-f0d9-49dc-9605-c12f301d6dc5" />
+
+
 
 ## MQTT Broker Integration
 
