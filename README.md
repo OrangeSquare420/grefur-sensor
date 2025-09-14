@@ -50,6 +50,10 @@ All Grefur sensors are designed to publish and receive messages through an MQTT 
 
 ---
 
+<img width="1207" height="1034" alt="image" src="https://github.com/user-attachments/assets/7cd7d096-3d32-4b39-bc0d-0f12ac894096" />
+
+
+
 ## Open Source
 
 The **Grefur Sensor Platform** is fully open source:
