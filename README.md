@@ -4,7 +4,7 @@ This is the main repository for **Grefur Sensor** project – an open-source, mo
 
 ---
 
-## 🔧 Backplate – The Heart of the System
+## Backplate – The Heart of the System
 
 The **Grefur Backplate** will be standardized, with posibilites to be mounted on walls, cases, HVAC, outdoor +++:
    
