@@ -26,10 +26,10 @@ Anyone can design a **Grefur-Backplate compatible module** which will be:
 - **Configurable**: Receive settings remotely and publish sensor readings to any MQTT broker.  
 - **Pluggable**: Easily swappable while maintaining the same infrastructure.  
 
-Example modules include:
+**Key sensor data for the IoT ecosystem**
 - Temperature & Humidity sensors  
 - Leak detectors  
-- Soil moisture readers  
+- Soil moisture sensors
 - Light sensors  
 - Digital buttons and switches
 ---
