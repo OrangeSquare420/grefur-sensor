@@ -40,13 +40,13 @@ Anyone can design a **Grefur-Backplate compatible module** which will be:
 
 ## MQTT Broker Integration
 
+> MQTT is a lightweight, publish–subscribe, machine-to-machine network protocol for message queue/message queuing service. It is designed for connections with remote locations that have devices with resource constraints or limited network bandwidth. MQTT topics and payloads are customizable to fit any integration scenario.
+
 All Grefur sensors are designed to publish and receive messages through an MQTT broker. This allows seamless integration with:
 
 - Home automation systems (Home Assistant, OpenHAB, etc.)
 - Industrial control systems
-- Cloud IoT dashboards
-
-> MQTT topics and payloads are customizable to fit any integration scenario.
+- IoT Datalakes and dashboards
 
 ---
 
