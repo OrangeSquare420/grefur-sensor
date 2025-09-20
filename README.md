@@ -19,12 +19,12 @@ The standardized **Grefur Backplate is designed** for universal mounting on wall
 
 ## Sensor Modules – Build Your Own
 
-Anyone can design a **Grefur-compatible module** that fits the backplate. The sensors will the be:
+Anyone can design a **Grefur-Backplate compatible module** which will be:
 
-- **Self-contained**: Include firmware, sensor logic, and configuration.  
-- **Network-ready**: Designed to connect via Wi-Fi or Ethernet and speak MQTT.  
+- **Self-contained**: Includes firmware, sensor logic, and configuration.  
+- **Network-ready**: Connects via Wi-Fi or Ethernet and communicates via MQTT.  
 - **Configurable**: Receive settings remotely and publish sensor readings to any MQTT broker.  
-- **Pluggable**: Easily swap modules while maintaining the same infrastructure.  
+- **Pluggable**: Easily swappable while maintaining the same infrastructure.  
 
 Example modules include:
 - Temperature & Humidity sensors  
