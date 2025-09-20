@@ -13,7 +13,7 @@ The **Grefur Backplate** will be standardized, with posibilites to be mounted on
 - **Mentality**: Easy access for exposing measured values into the IoT enviroment
 
 
-> Developed and maintained by **Grefur AS**, the Backplate Specification is open and public. Anyone can design compatible sensors and modules.
+> Developed and maintained by **Grefur AS**, the Backplate Specification is open and public. Anyone can design modules.
 
 ---
 
