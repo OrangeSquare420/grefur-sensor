@@ -69,27 +69,17 @@ Join the community to create your own modules or contribute to the ecosystem!
 
 This system supports connection of a **multiplexer (MUX) unit** to read multiple analog channels through the ESP8266.  
 
-### Features
-- Supports up to **4 analog channels** via the MUX.
+### MUX IC Support
+- **4 analog channels** supported.
 - **MUX control pins:**
   - **A (select line 1):** GPIO2
   - **B (select line 2):** GPIO14
-- Enables reading multiple analog signals with a single analog input pin on the microcontroller.
-- Simple integration with ESP8266-based boards like NodeMCU.
-
-### Usage
-1. Connect the MUX control pins to the specified GPIOs:
-   - `A` → GPIO2
-   - `B` → GPIO14
-2. Connect the MUX output to the analog input pin of the ESP8266.
-3. Use a suitable code library or function to select channels A/B and read analog values.
-
-### Notes
-- Ensure GPIO2 and GPIO14 states do not conflict with boot requirements of the ESP8266.
-- Only one analog input pin on the ESP8266 is needed; the MUX handles channel selection.
+- The microcontroller uses the **A (GPIO2)** and **B (GPIO14)** pins to select one of the four analog channels.  
+  This functionality is only active if the corresponding IOs are enabled in the configuration; otherwise, only the connected and configured channels will be read.
+- Ensure these pins do not conflict with other functions of your microcontroller.
 
 
----
+
 
 ## License
 
