@@ -74,9 +74,10 @@ This system supports connection of a **multiplexer (MUX) unit** to read multiple
 - **MUX control pins:**
   - **A (select line 1):** GPIO2
   - **B (select line 2):** GPIO14
-- Standard pins used is the **A (GPIO2)** and **B (GPIO14)** pins to select one of the four analog channels.  
+- By default, the backplate uses **A (GPIO2)** and **B (GPIO14)** to select one of the four analog channels.  
   This functionality is only active if the corresponding IOs are enabled in the configuration; otherwise, only the connected and configured channels will be read.
 - Ensure these pins do not conflict with other functions of your microcontroller.
+
 
 
 
